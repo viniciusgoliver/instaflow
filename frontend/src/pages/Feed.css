@@ -1,6 +1,6 @@
 section#post-list {
   width: 100%;
-  max-width: 580;
+  max-width: 580px;
   margin: 0 auto;
   padding: 0 30px;
 }
@@ -31,7 +31,7 @@ section#post-list article header .user-info span {
 section#post-list article header .user-info span.place {
   font-size: 11px;
   color: #666;
-  margin-top: 3px;;
+  margin-top: 3px;
 }
 
 section#post-list article > img {
